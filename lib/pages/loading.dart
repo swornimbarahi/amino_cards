@@ -9,14 +9,13 @@ class Loading extends StatefulWidget {
 }
 
 class _LoadingState extends State<Loading> {
-
   @override
-  void initState() { 
+  void initState() {
     super.initState();
     loadSpinner();
   }
 
-  void loadSpinner () async {
+  void loadSpinner() async {
     await Future.delayed(Duration(milliseconds: 2800));
     Navigator.pushReplacementNamed(context, '/home');
   }
@@ -24,12 +23,25 @@ class _LoadingState extends State<Loading> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.black,
-      body: Center(
-        child: SpinKitCubeGrid(
-          color: Colors.white,
-        ),
-      ),
-    );
+        backgroundColor: Colors.black,
+        body: Center(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: <Widget>[
+            SpinKitCubeGrid(
+              color: Colors.white,
+            ),
+            SizedBox(
+              height: 20.0
+            ),
+            Text("Amino Study Guide",
+                style: TextStyle(
+                  fontSize: 34.0,
+                  color: Colors.white,
+                  letterSpacing: 1.3,
+                  fontWeight: FontWeight.w600,
+                ))
+          ]),
+        ));
   }
 }
