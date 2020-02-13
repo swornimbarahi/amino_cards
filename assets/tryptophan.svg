@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200.776" height="343.617" viewBox="0 0 200.776 343.617">
+  <g id="tryptophan" transform="translate(-142.224 -114)">
+    <text id="COO" transform="translate(254 156)" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">COO</tspan></text>
+    <text id="CH2" transform="translate(254 295)" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">CH</tspan><tspan y="0" font-size="13.999" baseline-shift="-7.999199924145271">2</tspan></text>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="3" height="36" transform="translate(260 160)"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="3" height="36" transform="translate(260 302)"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="3" height="36" transform="translate(209.5 214.5) rotate(-90)"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="3" height="36" transform="translate(260 233)"/>
+    <text id="C" transform="translate(254 223)" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">C</tspan></text>
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="3" height="36" transform="translate(279.5 214.5) rotate(-90)"/>
+    <text id="H3N" transform="translate(159 221)" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">H</tspan><tspan y="0" font-size="15.166" baseline-shift="-8.665800054057392">3</tspan><tspan y="0">N</tspan></text>
+    <text id="H" transform="translate(324 223)" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">H</tspan></text>
+    <g id="Group_9" data-name="Group 9" transform="translate(17 124)">
+      <text id="_" data-name="+" transform="translate(182 77)" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">+</tspan></text>
+      <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(182 64)" fill="none" stroke="#000" stroke-width="1">
+        <ellipse cx="7.25" cy="7" rx="7.25" ry="7" stroke="none"/>
+        <ellipse cx="7.25" cy="7" rx="6.75" ry="6.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(51 117)">
+      <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(248 9)" fill="none" stroke="#000" stroke-width="1">
+        <circle cx="7" cy="7" r="7" stroke="none"/>
+        <circle cx="7" cy="7" r="6.5" fill="none"/>
+      </g>
+      <text id="_-" data-name="-" transform="translate(250 23)" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+    </g>
+    <g id="Group_25" data-name="Group 25" transform="matrix(0.927, -0.375, 0.375, 0.927, -3268.929, 931.862)">
+      <path id="Path_2" data-name="Path 2" d="M3420.927,790.9l36.947-21.673,35.793,21.673v39.308l-35.793,21.868-37.054-21.868.019-6.824Z" transform="translate(-48 -4)" fill="none" stroke="#000" stroke-width="4"/>
+      <line id="Line_8" data-name="Line 8" y2="31.874" transform="translate(3439.358 790.478)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3.5"/>
+      <line id="Line_9" data-name="Line 9" x2="27.216" y2="15.937" transform="translate(3381.628 823.87)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3.5"/>
+      <line id="Line_10" data-name="Line 10" y1="16.696" x2="28.04" transform="translate(3380.803 773.782)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3.5"/>
+    </g>
+    <g id="Group_30" data-name="Group 30" transform="translate(-37 -24)">
+      <g id="Group_29" data-name="Group 29" transform="translate(257.5 362.5)">
+        <g id="Group_15" data-name="Group 15">
+          <line id="Line_1" data-name="Line 1" x2="37.781" y2="30.888" transform="translate(41.083)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4"/>
+          <line id="Line_2" data-name="Line 2" x1="41.083" y2="31.746" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4"/>
+          <path id="Path_3" data-name="Path 3" d="M35.184,0H0" transform="translate(16 70)" stroke="#000" stroke-linecap="round" stroke-width="4"/>
+          <line id="Line_4" data-name="Line 4" x2="15.115" y2="37.148" transform="translate(0 31.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4"/>
+          <line id="Line_5" data-name="Line 5" y1="24.455" x2="8.863" transform="translate(70 31.545)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4"/>
+          <line id="Line_7" data-name="Line 7" x1="27.602" y1="21.687" transform="translate(42.718 9.201)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3.5"/>
+        </g>
+      </g>
+    </g>
+    <text id="N_H" data-name="N
+H" transform="translate(279 418)" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">N</tspan><tspan x="0" y="20">H</tspan></text>
+  </g>
+</svg>

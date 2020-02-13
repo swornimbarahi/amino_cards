@@ -11,17 +11,20 @@ class Loading extends StatefulWidget {
 class _LoadingState extends State<Loading> {
 
   @override
-  void initState() async { 
+  void initState() { 
     super.initState();
-    await Future.delayed(Duration(seconds: 2));
-    Navigator.pushReplacementNamed(context, '/home');
+    loadSpinner();
   }
 
+  void loadSpinner () async {
+    await Future.delayed(Duration(milliseconds: 2800));
+    Navigator.pushReplacementNamed(context, '/home');
+  }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blue,
+      backgroundColor: Colors.black,
       body: Center(
         child: SpinKitCubeGrid(
           color: Colors.white,

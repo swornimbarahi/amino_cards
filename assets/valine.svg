@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="250" viewBox="0 0 184 250">
+  <g id="valine" transform="translate(-153 -42)">
+    <text id="COO" transform="translate(248 84)" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">COO</tspan></text>
+    <text id="CH" transform="translate(248 222)" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">CH</tspan></text>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="3" height="36" transform="translate(254 88)"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="3" height="36" transform="translate(262.711 231.333) rotate(-45)"/>
+    <text id="CH3" transform="translate(289 279)" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">CH</tspan><tspan y="0" font-size="15.166" baseline-shift="-8.665800054057392">3</tspan></text>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="3" height="36" transform="translate(223.833 255.789) rotate(-135)"/>
+    <text id="H3C" transform="translate(177 278)" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">H</tspan><tspan y="0" font-size="15.166" baseline-shift="-8.665800054057392">3</tspan><tspan y="0">C</tspan></text>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="3" height="36" transform="translate(203.5 142.5) rotate(-90)"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="3" height="36" transform="translate(254 161)"/>
+    <text id="C" transform="translate(248 151)" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">C</tspan></text>
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="3" height="36" transform="translate(273.5 142.5) rotate(-90)"/>
+    <text id="H3N" transform="translate(153 149)" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">H</tspan><tspan y="0" font-size="15.166" baseline-shift="-8.665800054057392">3</tspan><tspan y="0">N</tspan></text>
+    <text id="H" transform="translate(318 151)" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">H</tspan></text>
+    <g id="Group_9" data-name="Group 9" transform="translate(11 52)">
+      <text id="_" data-name="+" transform="translate(182 77)" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">+</tspan></text>
+      <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(182 64)" fill="none" stroke="#000" stroke-width="1">
+        <ellipse cx="7.25" cy="7" rx="7.25" ry="7" stroke="none"/>
+        <ellipse cx="7.25" cy="7" rx="6.75" ry="6.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(45 45)">
+      <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(248 9)" fill="none" stroke="#000" stroke-width="1">
+        <circle cx="7" cy="7" r="7" stroke="none"/>
+        <circle cx="7" cy="7" r="6.5" fill="none"/>
+      </g>
+      <text id="_-" data-name="-" transform="translate(250 23)" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+    </g>
+  </g>
+</svg>
