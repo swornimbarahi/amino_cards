@@ -46,6 +46,7 @@ class _HomeState extends State<Home> {
                       style: TextStyle(
                         fontSize: 24.0,
                         letterSpacing: 1.3,
+                        fontWeight: FontWeight.bold,
                       ),
                     ),
                   )),
