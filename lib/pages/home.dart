@@ -30,25 +30,55 @@ class _HomeState extends State<Home> {
           centerTitle: true,
         ),
         body: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Padding(
               padding: const EdgeInsets.all(8.0),
               child: RaisedButton(
-                  onPressed: () {},
+                  onPressed: () {
+                    Navigator.pushNamed(context, '/study');
+                  },
                   color: Colors.white,
                   child: Padding(
                     padding: const EdgeInsets.symmetric(vertical: 15.0),
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: <Widget>[
-                        Icon(Icons.book),
-                        SizedBox(width: 40.0),
+                        Icon(Icons.book, size: 40.0),
+                        SizedBox(width: 30.0),
                         Text("Study",
                             style: TextStyle(
                               fontSize: 28.0,
                               fontWeight: FontWeight.w600,
                             )),
+                        SizedBox(width: 70.0),
+                      ],
+                    ),
+                  )),
+            ),
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: RaisedButton(
+                  onPressed: () {
+                    Navigator.pushNamed(context, '/study');
+                  },
+                  color: Colors.white,
+                  child: Padding(
+                    padding: const EdgeInsets.symmetric(vertical: 15.0),
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: <Widget>[
+                        Icon(
+                          Icons.score,
+                          size: 40.0,
+                        ),
                         SizedBox(width: 30.0),
+                        Text("Test",
+                            style: TextStyle(
+                              fontSize: 28.0,
+                              fontWeight: FontWeight.w600,
+                            )),
+                        SizedBox(width: 70.0),
                       ],
                     ),
                   )),

@@ -1,6 +1,7 @@
 import 'package:amino_cards/pages/loading.dart';
 import 'package:flutter/material.dart';
 import 'package:amino_cards/pages/home.dart';
+import 'package:amino_cards/pages/study.dart';
 
 void main() => runApp(App());
 
@@ -18,7 +19,7 @@ class App extends StatelessWidget {
         routes: {
           '/': (context) => Loading(),
           '/home': (context) => Home(),
-          // '/amino': (context) => Amino(),
+          '/study': (context) => Study(),
           // '/test': (context) => Test(),
         });
   }
